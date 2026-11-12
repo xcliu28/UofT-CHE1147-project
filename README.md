@@ -1,4 +1,7 @@
 # UofT-CHE1147-project
-A record of using data for homework
+A record of homework
 
-In this project, you will se raw code for my homework.
+1. Project Proposal
+2. Proposal code
+3. Project code
+4. Final Project Paper
